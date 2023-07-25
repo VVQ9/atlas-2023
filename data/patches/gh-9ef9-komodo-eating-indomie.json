@@ -1,0 +1,43 @@
+{
+	"id": -1,
+	"name": "Komodo Eating Indomie",
+	"description": "Komodo is exotic animal from Indonesia. Indomie is famous instant noodle brand from Indonesia.",
+	"links": {
+		"subreddit": [
+			"indonesia"
+		],
+		"discord": [
+			"redditindo"
+		]
+	},
+	"path": {
+		"245": [
+			[
+				-1355,
+				190
+			],
+			[
+				-1355,
+				216
+			],
+			[
+				-1314,
+				216
+			],
+			[
+				-1314,
+				190
+			],
+			[
+				-1355,
+				190
+			]
+		]
+	},
+	"center": {
+		"245": [
+			-1334,
+			203
+		]
+	}
+}
